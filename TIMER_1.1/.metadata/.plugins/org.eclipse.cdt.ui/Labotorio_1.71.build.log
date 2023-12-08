@@ -1,0 +1,10 @@
+22:32:17 **** Incremental Build of configuration Debug for project Labotorio_1.71 ****
+make -j8 all 
+arm-none-eabi-size   Labotorio_1.71.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8452	     20	   1644	  10116	   2784	Labotorio_1.71.elf
+Finished building: default.size.stdout
+ 
+
+22:32:18 Build Finished. 0 errors, 0 warnings. (took 581ms)
+

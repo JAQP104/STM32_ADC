@@ -1,0 +1,10 @@
+20:45:53 **** Incremental Build of configuration Debug for project PWM_5_And_Servo ****
+make -j8 all 
+arm-none-eabi-size   PWM_5_And_Servo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10160	     20	   1644	  11824	   2e30	PWM_5_And_Servo.elf
+Finished building: default.size.stdout
+ 
+
+20:45:53 Build Finished. 0 errors, 0 warnings. (took 571ms)
+

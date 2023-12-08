@@ -1,0 +1,105 @@
+2023-11-28 00:04:42,780 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 960266480 Bytes (1073741824)
+2023-11-28 00:04:45,818 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 728164488 Bytes (1073741824)
+2023-11-28 00:04:46,142 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-28 00:04:46,142 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-28 00:04:46,142 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-28 00:04:46,142 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-28 00:04:46,142 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-11-28 00:04:46,143 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-28 00:04:46,144 [WARN] IP:2114 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-11-28 00:04:46,144 [WARN] IP:2114 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-11-28 00:04:46,279 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\license.tmp_save
+2023-11-28 00:04:46,355 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\license.tmp
+2023-11-28 00:04:46,398 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\gpio.tmp_save
+2023-11-28 00:04:46,450 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\gpio.tmp
+2023-11-28 00:04:46,578 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_it.c_save
+2023-11-28 00:04:46,787 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_it.c
+2023-11-28 00:04:46,807 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_it.h_save
+2023-11-28 00:04:46,882 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_it.h
+2023-11-28 00:04:46,914 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-28 00:04:47,058 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_hal_msp.c
+2023-11-28 00:04:47,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\system.tmp_save
+2023-11-28 00:04:47,143 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\system.tmp
+2023-11-28 00:04:47,198 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-28 00:04:47,270 [INFO] CodeEngine:335 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-28 00:04:47,324 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\main.h_save
+2023-11-28 00:04:47,413 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\main.h
+2023-11-28 00:04:47,442 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\main.c_save
+2023-11-28 00:04:47,550 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\main.c
+2023-11-28 00:04:50,194 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 2326mS.
+2023-11-28 00:04:50,201 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-28 00:04:50,579 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-11-28 00:04:52,050 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1849mS.
+2023-11-28 00:04:52,052 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-28 00:04:52,059 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-11-28 00:30:06,293 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 654108392 Bytes (1073741824)
+2023-11-28 00:30:09,107 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 667089520 Bytes (1073741824)
+2023-11-28 00:30:09,440 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-28 00:30:09,441 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-28 00:30:09,441 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-28 00:30:09,441 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-28 00:30:09,441 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-11-28 00:30:09,443 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-28 00:30:09,444 [WARN] IP:2114 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-11-28 00:30:09,444 [WARN] IP:2114 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-11-28 00:30:09,593 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\license.tmp_save
+2023-11-28 00:30:09,661 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\license.tmp
+2023-11-28 00:30:09,703 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\gpio.tmp_save
+2023-11-28 00:30:09,788 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\gpio.tmp
+2023-11-28 00:30:09,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_it.c_save
+2023-11-28 00:30:10,055 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_it.c
+2023-11-28 00:30:10,121 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_it.h_save
+2023-11-28 00:30:10,256 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_it.h
+2023-11-28 00:30:10,381 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-28 00:30:10,512 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_hal_msp.c
+2023-11-28 00:30:10,551 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\system.tmp_save
+2023-11-28 00:30:10,609 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\system.tmp
+2023-11-28 00:30:10,637 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-28 00:30:10,693 [INFO] CodeEngine:335 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-28 00:30:10,730 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\main.h_save
+2023-11-28 00:30:10,795 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\main.h
+2023-11-28 00:30:10,814 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\main.c_save
+2023-11-28 00:30:10,894 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\main.c
+2023-11-28 00:30:12,749 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 1507mS.
+2023-11-28 00:30:12,755 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-28 00:30:13,049 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-11-28 00:30:14,824 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2069mS.
+2023-11-28 00:30:14,826 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-11-28 00:30:14,833 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-11-28 00:41:58,528 [WARN] IP:2114 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-11-28 00:41:58,528 [WARN] IP:2114 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-11-28 00:42:27,917 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 775233952 Bytes (1073741824)
+2023-11-28 00:42:29,951 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 804544928 Bytes (1073741824)
+2023-11-28 00:42:31,784 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 850773336 Bytes (1073741824)
+2023-11-28 00:42:32,109 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-28 00:42:32,109 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-28 00:42:32,109 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-28 00:42:32,110 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-28 00:42:32,110 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-11-28 00:42:32,110 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-28 00:42:32,111 [WARN] IP:2114 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-11-28 00:42:32,111 [WARN] IP:2114 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-11-28 00:42:32,256 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\license.tmp_save
+2023-11-28 00:42:32,345 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\license.tmp
+2023-11-28 00:42:32,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\gpio.tmp_save
+2023-11-28 00:42:32,450 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\gpio.tmp
+2023-11-28 00:42:32,500 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_it.c_save
+2023-11-28 00:42:32,663 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_it.c
+2023-11-28 00:42:32,675 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_it.h_save
+2023-11-28 00:42:32,734 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_it.h
+2023-11-28 00:42:32,774 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-28 00:42:32,872 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\stm32f4xx_hal_msp.c
+2023-11-28 00:42:32,880 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\system.tmp_save
+2023-11-28 00:42:32,927 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\MXTmpFiles\system.tmp
+2023-11-28 00:42:32,945 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-28 00:42:33,001 [INFO] CodeEngine:335 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-28 00:42:33,030 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\main.h_save
+2023-11-28 00:42:33,102 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Inc\main.h
+2023-11-28 00:42:33,114 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\main.c_save
+2023-11-28 00:42:33,199 [INFO] CodeEngine:279 - Generated code: C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\LCD\LCD_I2C\Core\Src\main.c
+2023-11-28 00:42:33,982 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 387mS.
+2023-11-28 00:42:33,990 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-28 00:42:34,316 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-11-28 00:42:35,803 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1813mS.
+2023-11-28 00:42:35,805 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-11-28 00:42:35,812 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

@@ -1,0 +1,30 @@
+!SESSION 2023-10-15 22:29:34.858 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\APLI_ELEC_POT\SCR_Sicron_Red_Elec
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-15 22:29:52.735
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-15 22:29:52.738
+!MESSAGE Log4j2 initialized with config file C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\APLI_ELEC_POT\SCR_Sicron_Red_Elec\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-15 22:30:07.131
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-10-18 22:07:44.406 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\APLI_ELEC_POT\SCR_Sicron_Red_Elec
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-18 22:07:52.179
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-18 22:07:52.188
+!MESSAGE Log4j2 initialized with config file C:\Users\57310\STMCubeIDE_1.13.2\Curso_2023_2\APLI_ELEC_POT\SCR_Sicron_Red_Elec\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-18 22:08:05.426
+!MESSAGE Started RMI Server, listening on port 41337

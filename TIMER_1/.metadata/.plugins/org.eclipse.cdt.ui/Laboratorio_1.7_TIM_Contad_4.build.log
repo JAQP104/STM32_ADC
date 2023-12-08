@@ -1,0 +1,10 @@
+18:51:38 **** Incremental Build of configuration Debug for project Laboratorio_1.7_TIM_Contad_4 ****
+make -j8 all 
+arm-none-eabi-size   Laboratorio_1.7_TIM_Contad_4.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10624	     20	   1716	  12360	   3048	Laboratorio_1.7_TIM_Contad_4.elf
+Finished building: default.size.stdout
+ 
+
+18:51:39 Build Finished. 0 errors, 0 warnings. (took 678ms)
+

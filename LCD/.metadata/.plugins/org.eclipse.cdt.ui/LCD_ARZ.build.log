@@ -1,0 +1,10 @@
+00:58:44 **** Incremental Build of configuration Debug for project LCD_ARZ ****
+make -j8 all 
+arm-none-eabi-size   LCD_ARZ.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9680	     36	   1652	  11368	   2c68	LCD_ARZ.elf
+Finished building: default.size.stdout
+ 
+
+00:58:45 Build Finished. 0 errors, 0 warnings. (took 602ms)
+

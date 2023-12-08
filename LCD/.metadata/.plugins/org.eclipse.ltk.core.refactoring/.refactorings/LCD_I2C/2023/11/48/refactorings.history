@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;LCD_I2C/Core/Librerias&apos; to &apos;Libreria&apos;" description="Rename resource &apos;Librerias&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Librerias" name="Libreria" stamp="1701146780661" updateReferences="true"/>
+</session>

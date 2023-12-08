@@ -1,0 +1,8 @@
+../Core/Src/LCD_I2C.c:10:8:I2C_PCF8574_Write	24	static
+../Core/Src/LCD_I2C.c:15:7:I2C_Lcd_Cmd	24	static
+../Core/Src/LCD_I2C.c:35:7:I2C_Lcd_Init	16	static
+../Core/Src/LCD_I2C.c:132:7:I2C_Lcd_Chr	24	static
+../Core/Src/LCD_I2C.c:172:7:I2C_Lcd_Chr_Cp	24	static
+../Core/Src/LCD_I2C.c:193:7:I2C_Lcd_Text	16	static
+../Core/Src/LCD_I2C.c:198:7:I2C_Lcd_Text_Cp	16	static
+../Core/Src/LCD_I2C.c:205:8:I2C_Lcd_chr_propio	32	static

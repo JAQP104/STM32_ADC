@@ -1,0 +1,10 @@
+16:14:16 **** Incremental Build of configuration Debug for project Prueba_ADC_L476 ****
+make -j8 all 
+arm-none-eabi-size   Prueba_ADC_L476.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15064	     20	   1676	  16760	   4178	Prueba_ADC_L476.elf
+Finished building: default.size.stdout
+ 
+
+16:14:17 Build Finished. 0 errors, 0 warnings. (took 652ms)
+

@@ -1,0 +1,10 @@
+22:31:50 **** Incremental Build of configuration Debug for project SCR_Sicron_Red_Elec ****
+make -j8 all 
+arm-none-eabi-size   SCR_Sicron_Red_Elec.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15516	     20	   1820	  17356	   43cc	SCR_Sicron_Red_Elec.elf
+Finished building: default.size.stdout
+ 
+
+22:31:51 Build Finished. 0 errors, 0 warnings. (took 849ms)
+

@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_1_TIMER_CH_1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_3 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_4 Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_4 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_5_And_Servo Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_1\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_1\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_1_TIMER_CH_1\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_1_TIMER_CH_1\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER_1_PWM_CH1_1\ Debug/activeLaunchMode=debug

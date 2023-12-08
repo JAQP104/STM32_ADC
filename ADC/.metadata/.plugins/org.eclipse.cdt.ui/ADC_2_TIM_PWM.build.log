@@ -1,0 +1,10 @@
+16:14:09 **** Incremental Build of configuration Debug for project ADC_2_TIM_PWM ****
+make -j8 all 
+arm-none-eabi-size   ADC_2_TIM_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14748	     20	   1820	  16588	   40cc	ADC_2_TIM_PWM.elf
+Finished building: default.size.stdout
+ 
+
+16:14:10 Build Finished. 0 errors, 0 warnings. (took 693ms)
+

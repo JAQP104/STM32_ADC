@@ -1,0 +1,10 @@
+18:51:37 **** Incremental Build of configuration Debug for project Laboratorio_1.7_TIMER_3 ****
+make -j8 all 
+arm-none-eabi-size   Laboratorio_1.7_TIMER_3.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8368	     20	   1644	  10032	   2730	Laboratorio_1.7_TIMER_3.elf
+Finished building: default.size.stdout
+ 
+
+18:51:38 Build Finished. 0 errors, 0 warnings. (took 630ms)
+

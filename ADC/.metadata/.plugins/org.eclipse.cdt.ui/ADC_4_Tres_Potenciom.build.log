@@ -1,0 +1,43 @@
+22:26:46 **** Incremental Build of configuration Debug for project ADC_4_Tres_Potenciom ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c:43:19: error: conflicting types for 'hadc1'; have 'ADC_HandleTypeDef'
+   43 | ADC_HandleTypeDef hadc1;
+      |                   ^~~~~
+../Core/Src/main.c:34:24: note: previous declaration of 'hadc1' with type 'ADC_ChannelConfTypeDef'
+   34 | ADC_ChannelConfTypeDef hadc1;
+      |                        ^~~~~
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:165:13: error: invalid storage class for function 'MX_ADC1_Init'
+  165 | static void MX_ADC1_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:236:13: error: invalid storage class for function 'MX_GPIO_Init'
+  236 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:266:1: error: expected declaration or statement at end of input
+  266 | }
+      | ^
+../Core/Src/main.c: At top level:
+../Core/Src/main.c:52:13: warning: 'MX_GPIO_Init' used but never defined
+   52 | static void MX_GPIO_Init(void);
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:53:13: warning: 'MX_ADC1_Init' used but never defined
+   53 | static void MX_ADC1_Init(void);
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:257:6: warning: 'Error_Handler' defined but not used [-Wunused-function]
+  257 | void Error_Handler(void)
+      |      ^~~~~~~~~~~~~
+../Core/Src/main.c:236:13: warning: 'MX_GPIO_Init' defined but not used [-Wunused-function]
+  236 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:165:13: warning: 'MX_ADC1_Init' defined but not used [-Wunused-function]
+  165 | static void MX_ADC1_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:118:6: warning: 'SystemClock_Config' defined but not used [-Wunused-function]
+  118 | void SystemClock_Config(void)
+      |      ^~~~~~~~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+22:26:47 Build Failed. 5 errors, 6 warnings. (took 758ms)
+
